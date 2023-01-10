@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Hanna Le Jeannic Lab</title>
-	<atom:link href="https://www.lejeannic.quantumoptics.fr/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lejeannic.quantumoptics.fr/feed/?simply_static_page=6220" rel="self" type="application/rss+xml" />
 	<link>https://www.lejeannic.quantumoptics.fr</link>
 	<description>LKB Nano Optics group</description>
 	<lastBuildDate>Sun, 11 Sep 2022 13:36:08 +0000</lastBuildDate>
